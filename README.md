@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/duydoan"><img src="https://api.daily.dev/devcards/c13004c2614440f4810c4c49edf63afd.png?r=5hl" width="400" alt="Doan Bao Duy's Dev Card"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duydoanx)](https://github.com/anuraghazra/github-readme-stats)
